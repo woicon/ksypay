@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>ico/keyBorder</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ico/keyBorder" fill="#A9A9A9">
+            <path d="M0,11.0019996 C0,9.89632574 0.894730389,9 1.99630737,9 L58.0036926,9 C59.1062227,9 60,9.89811611 60,11.0019996 L60,49.9980004 C60,51.1036743 59.1052696,52 58.0036926,52 L1.99630737,52 C0.893777255,52 0,51.1018839 0,49.9980004 L0,11.0019996 Z M11,39 L49,39 L49,45 L11,45 L11,39 Z M8,27 L14,27 L14,33 L8,33 L8,27 Z M20.6666667,27 L26.6666667,27 L26.6666667,33 L20.6666667,33 L20.6666667,27 Z M33.3333333,27 L39.3333333,27 L39.3333333,33 L33.3333333,33 L33.3333333,27 Z M46,27 L52,27 L52,33 L46,33 L46,27 Z M8,17 L14,17 L14,23 L8,23 L8,17 Z M20.6666667,17 L26.6666667,17 L26.6666667,23 L20.6666667,23 L20.6666667,17 Z M33.3333333,17 L39.3333333,17 L39.3333333,23 L33.3333333,23 L33.3333333,17 Z M46,17 L52,17 L52,23 L46,23 L46,17 Z" id="Combined-Shape"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,28 @@
+/**index.wxss**/
+.numKeybord{width:100%;position:absolute;top:50%;bottom:0;right:0;left:0;}
+.numKeybord .num{position:relative;background:#fafafa;}
+.numKeybord .num:before{
+  content:'';display:block;transform:scaleY(0.5);border-top:1px solid #ccc;transform-origin:bottom;
+  position:absolute;top:-1px;left:0;right:0;
+}
+.numKeybord .num:after{
+  content:'';display:block;transform:scaleX(0.5);border-left:1px solid #ccc;transform-origin:0 100%;width:0;position:absolute;top:0;bottom:0;left:0;
+}
+.numKeybord .num text{position:absolute;left:0;top:50%;right:0;margin-top:-9rpx;}
+.numKeybord .num:hover{background:#ccc;}
+.numKey{position:absolute;left:0;bottom:0;top:0;right:25%;z-index:99;}
+.numKey .num{width:33.333333333%;float:left;height:25%;text-align:center;}
+.keyTool .payBtn{height:75%;background:#1aad19;color:#fff;}
+.keyTool .delBtn{height:25%;}
+.keyTool .payBtn:after{border:none;}
+.keyTool{position:absolute;right:0;bottom:0;left:75%;top:0;}
+.keyTool .num{width:100%;text-align:center;}
+
+.mallInfo{display:flex;flex-wrap:wrap;margin-bottom:20rpx;}
+.mallImg{width:80rpx;height:80rpx;margin-right:20rpx;border-radius:700rpx;}
+.mallField{font-size:24rpx;color:#666;}
+.mallInfos text{display:block;}
+.payHead{padding:0 40rpx;}
+.payNum{border:1px solid #ccc;padding:40rpx 20rpx;border-radius:2rpx;}
+
+.delico{font-size:0;display:block;width:60rpx;height:14rpx;background:#666;}

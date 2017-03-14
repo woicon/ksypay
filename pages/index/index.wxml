@@ -1,0 +1,47 @@
+<!--index.wxml-->
+<view class="container">
+    <view class="payHead">
+    <view class="mallInfo">
+    
+    <image class="mallImg" src="{{userInfo.avatarUrl}}"></image>
+        <view class="mallInfos">
+        <text class="mallName"> {{userInfo.nickName}}</text>
+        <text class="mallField">{{userInfo.province}}{{userInfo.city}}</text>
+        </view>
+    </view>
+    <view class="numInput">
+        <input class="payNum" placeholder="输入付款金额" auto-focus/>
+    </view>
+
+    <checkbox-group bindchange="checkboxChange">
+    <label class="vipPay">
+        <checkbox value="会员支付" checked="false"/>会员支付
+    </label>
+    </checkbox-group>
+
+    <view catchtap="topUp">立即充值</view>
+    </view>
+
+    <view class="numKeybord">
+            <view class="numKey">
+                <view class="num"><text>1</text></view>
+                <view class="num"><text>2</text></view>
+                <view class="num"><text>3</text></view>
+            
+                <view class="num"><text>4</text></view>
+                <view class="num"><text>5</text></view>
+                <view class="num"><text>6</text></view>
+            
+                <view class="num"><text>7</text></view>
+                <view class="num"><text>8</text></view>
+                <view class="num"><text>9</text></view>
+                <view class="num"><text>0</text></view>
+                <view class="num"><text>.</text></view>
+                <view class="num"><text>00</text></view>
+            </view>
+            <view class="keyTool">
+                 <view class="num delBtn"><text class="delico">删除</text></view>
+             <view class="num payBtn"><text>支付</text></view>
+            </view>
+    </view>
+</view>

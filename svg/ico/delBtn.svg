@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>ico/delBtn</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ico/delBtn" fill="#A9A9A9">
+            <path d="M35.363961,28.9852814 L28.6464466,35.7027958 L30.767767,37.8241161 L37.4852814,31.1066017 L44.2027958,37.8241161 L46.3241161,35.7027958 L39.6066017,28.9852814 L46.3241161,22.267767 L44.2027958,20.1464466 L37.4852814,26.863961 L30.767767,20.1464466 L28.6464466,22.267767 L35.363961,28.9852814 Z M17.0951818,13 L58.0024319,13 C59.1056583,13 60,13.8919411 60,14.9999204 L60,45.0000796 C60,46.1046051 59.1038719,47 58.0024319,47 L17.0951818,47 L2,30 L17.0951818,13 Z" id="Combined-Shape"></path>
+        </g>
+    </g>
+</svg>
